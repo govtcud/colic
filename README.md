@@ -1,6 +1,9 @@
 Colic
 ================
 
+Eventually this will be a game involving babies.  Not a game for babies, a game about babies.  
+At the moment it doesn't do anything, I just created the basic framework and I am working on the design.
+
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
 
