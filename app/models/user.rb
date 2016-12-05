@@ -1,4 +1,6 @@
-class User < ApplicationRecord
+class User < ActiveRecord::Base
+  has_many :authorizations
+  validates :name, :presence => true
 
   def self.create_with_omniauth(auth)
     create! do |user|
